@@ -1,0 +1,34 @@
+[
+{
+  "model": "courses.subject",
+  "pk": 5,
+  "fields": {
+    "title": "Языки программирования",
+    "slug": "yazyki-programmirovaniya"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 6,
+  "fields": {
+    "title": "Системы управления и контроля версий",
+    "slug": "sistemy-upravleniya-i-kontrolya-versij"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 7,
+  "fields": {
+    "title": "Реляционные базы данных",
+    "slug": "relyacionnye-bazy-dannyh"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 8,
+  "fields": {
+    "title": "Архитектуры веб-приложений",
+    "slug": "arhitektury-veb-prilozhenij"
+  }
+}
+]

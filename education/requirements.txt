@@ -1,0 +1,17 @@
+Attrs==25.3.0
+Channels==4.2.2
+Channels-redis==4.2.1
+Django==5.2
+Django-braces==1.17.0
+Django-debug-toolbar==5.2.0
+Django-embed-video==1.4.10
+Django-jazzmin==3.0.1
+Django-redisboard==8.4.0
+Djangorestframework==3.16.0
+Flake8==7.2.0
+Isort==6.0.1
+Pillow==11.2.1
+Psycopg2==2.9.10
+Pymemcache==4.0.0
+Redis==6.0.0
+Requests==2.32.3
